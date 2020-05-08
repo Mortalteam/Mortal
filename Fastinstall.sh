@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 sudo ls
 cd Mortal
-chmod + tg
-chmod + ts
-chmod + MoAu
+chmod +x tg
+chmod +x ts
+chmod +x MoAu
 ./ts
