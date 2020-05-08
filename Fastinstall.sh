@@ -3,5 +3,5 @@ sudo ls
 cd Mortal
 chmod +x tg
 chmod +x ts
-chmod +x MoAu
+chmod +x TsAu
 ./ts
